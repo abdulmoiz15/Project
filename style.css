@@ -1,0 +1,327 @@
+
+.container{
+    display: flex;
+    background-color: whitesmoke;
+    margin-top: -10px;
+    height: 100px;
+    width: 101.5%;
+    margin-left: -10px;
+    cursor: pointer;
+    position: fixed;
+}
+.container:hover{
+    background-color: black;
+    color: white;
+}
+ul{
+    margin-left: 300px;
+    align-items: center;
+    margin-top:40px ;
+}
+
+li{
+    display: inline;
+    margin: 10px;
+    font-size: small;
+    
+}
+h1{
+    margin-top: 28px;
+    margin-left: 100px;
+}
+.Every{
+    text-align: center;
+    margin-top: -60vh;
+    margin-left: -7vh;
+    font-size: 5vh;
+    color: white;
+}
+.water{
+    width: 101.5%; 
+    height: 490px; 
+    margin-left: -10px; 
+}
+p{
+    font-size: large;
+    margin-left: 100px;
+}
+.but{
+    padding: 17px;
+    margin-left: 20vh;
+    width: 33vh;
+    background-color: rgb(65, 65, 233);
+    color: white;
+    cursor: pointer;
+}
+.but:hover{
+    background-color: transparent;
+    transition: 0.5s;
+}
+.but1{
+    padding: 17px;
+    margin-left: 10px;
+    width: 33vh;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    cursor: pointer;
+}
+.but1:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
+.seo{
+   display: flex;
+}
+.lap{
+    width: 100vh;
+    margin-top: -40px;
+}
+h2{
+    margin-top: 220px;
+    font-size: 35px;
+    font-weight: 100;
+}
+
+h5{
+    margin-left: 100vh;
+    margin-top: -47vh;
+    line-height: 22px;
+    color: gray;
+}
+.read{
+    margin-left: 100vh;
+    width: 190px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(65, 65, 233);
+}
+.read:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.pge3{
+    background-color: whitesmoke;
+    margin-top: 30vh;
+    width: 101.5% ;
+    margin-left: -10px;
+    padding-top: 130px;
+}
+.lap2{
+    width: 80vh;
+    margin-left: 115vh;
+    background-size: cover;
+}
+.port{
+    margin-top: -50vh;
+    margin-left: 80px;
+}
+h4{
+    margin-left: 80px;
+    color: gray;
+    line-height: 4vh;
+}
+.see{
+    margin-left: 80px;
+    width: 190px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(65, 65, 233);
+}
+.see:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+.water2{
+
+    width: 101%;
+    margin-left: -10px;
+    margin-top: 30vh;
+    height: 420px;
+
+}
+.smal{
+    margin-top: -50vh;
+    text-align: center;
+    font-size: 10vh;
+    margin-left: -15px;
+    font-weight: 530;
+    color: white;
+}
+.para{
+    text-align: center;
+    margin-left: -20px;
+    color: white;
+}
+h2{
+  text-align: center;
+}
+.limit{
+    text-align: center;
+    color: gray;
+}
+.down{
+    width: 190px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(65, 65, 233);
+    margin-left: 85vh;    
+}
+.down:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.tre{
+    width: 180vh;
+    margin-left: 100px;
+    height: 200vh;
+}
+.our{
+    background-color: black;
+    margin-top: -30px;
+    width: 210vh;
+    height: 114vh;
+    margin-left: -10px;
+}
+.our:hover{
+    background-color: slategray;
+}
+.proj{
+     color: white;
+     padding-top: 100px;
+     margin-left: 85vh;
+
+     
+}
+.latest{
+    color: white;
+    margin-left: 93vh;
+    font-size: 10px;
+}
+.projectimg{
+    width: 301px;
+    padding-left: 2vh;
+    animation: forwards ;
+}
+.custom{
+    margin-top: -30px;
+    text-align: center;
+    background-image:url(./cloud.jpg);
+    background-repeat: no-repeat;
+    height: 75vh;
+    width: 210vh;
+    margin-left: -10px;
+    background-size: 300vh;
+    padding-top: 50px;
+    color: white;
+    background-attachment: fixed;
+}
+.sky1{
+    margin-left: -10px;
+}
+.human{
+    border-radius: 100px;
+    margin-top: 13px;
+    width: 17vh;
+    cursor: pointer;
+}
+
+.Aigars{
+    margin-left: -9px;
+    color: white;
+    font-weight: bolder;
+}
+.main{
+    margin-left: -25px;
+    text-align: center;
+    font-weight: lighter;
+    color: black;
+    padding-top: 100px;
+}
+.fourimg{
+    width: 60px;
+    margin: 20px;
+    margin-left: 180px;
+}
+.last{
+    height: 300px;
+}.WordPress{
+    font-weight: lighter;
+    margin-left: 30vh;
+}
+.lastwrk{
+    display: flex;
+    background-color: whitesmoke;
+    width: 210vh;
+    height: 180px;
+    padding-top: 55px;
+    margin-left: -10px;
+    
+}      
+.lastbut{
+    
+    margin-left: 150px;
+    height: 50px;
+    margin-top: 20px;
+    width: 240px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(65, 65, 233);
+    cursor: pointer;
+}  
+.lastbut:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.black{
+    background-color: black;
+    height: 200px;
+    margin-left: -10px;
+    width: 210vh;
+    display: flex;
+    cursor: pointer;
+}              
+.black:hover{
+    background-color: slategray;
+}
+.theme{
+    margin-top: -10px;
+      margin-left: 15vh;
+      font-weight: lighter;
+      color: white;
+      padding-top: 15vh;
+}
+.theme:hover{
+    color: black;
+}
+.fonts{
+       padding-top: 90px;
+       padding-left: 95vh;
+       letter-spacing: 7px;
+       justify-content: space-between;
+       color: white;
+}
+.fonts:hover{
+    color: black;
+}
+select{
+    background: transparent;
+    color: white;
+    rotate: bottom;
+}
+.web{
+    overflow: hidden;
+}
+
+@media screen and (max-width: 991px) {
+            
+}
